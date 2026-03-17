@@ -1,0 +1,7 @@
+{
+  "name": "Vanguard 3D FPS",
+  "description": "A high-performance browser-based first-person shooter built with Three.js and Cannon.js.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
